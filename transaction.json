@@ -1,0 +1,22 @@
+* Overview of Git
+* Version control System
+     * What is version control system(VCS)?
+     * Why version control system(VCS)?
+     * Traditional system: Linux/Windows machines
+-----------------------------------------------------------------------------------------------------------------------------
+* Types of Version control System
+   * Centralized Version control System
+   * Distributed Version control System
+* Architecture of Git
+-----------------------------------------------------------------------------------------------------------------------------
+* Installation of Git
+* Basic Git commands
+   * git version
+   * git init
+   * git add
+   * git commit
+   * git status
+   * git log
+   * git config
+   * git show
+   * git rm
